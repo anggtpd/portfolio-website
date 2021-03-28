@@ -10,16 +10,17 @@
 section {
   scroll-margin-top: 12rem;
 }
-
+/* 
 .carousel-item {
   height: 500px;
-}
+} */
 
 .carousel-item img {
-  margin: auto;
-  box-shadow: 4px 4px 4px 4px #a7a6a6;
+  border: 2px solid #f7f1e0;
 }
 
-.carousel-control-prev {
-  color: #ffc107;
+.carousel-control-prev,
+.carousel-control-next {
+  margin-top: 18%;
+  height: 0;
 }
