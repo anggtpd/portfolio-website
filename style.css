@@ -10,10 +10,6 @@
 section {
   scroll-margin-top: 12rem;
 }
-/* 
-.carousel-item {
-  height: 500px;
-} */
 
 .carousel-item img {
   border: 2px solid #f7f1e0;
@@ -21,6 +17,6 @@ section {
 
 .carousel-control-prev,
 .carousel-control-next {
-  margin-top: 18%;
+  margin-top: 25%;
   height: 0;
 }
